@@ -12,3 +12,28 @@ The objective of this project is to design and simulate a functional and secure 
 -Created VLANs and configured trunk ports for inter-VLAN communication.
 -Established wireless connectivity for various devices with security settings.
 -Tested and troubleshooted the network using Cisco Packet Tracer simulation tools.
+
+### Steps
+
+We start by putting together all the required devices, i.e. the router, switch, pc's,etc and making basic cable connections.
+
+<img width="1451" height="602" alt="Screenshot 2025-10-19 192758" src="https://github.com/user-attachments/assets/f49a551f-f67f-4fd5-9be3-506b7c83d4fb" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
