@@ -44,3 +44,13 @@ Then we do the configuration creating 3 sub-interfaces after which we integrate 
 
 <img width="716" height="695" alt="Screenshot 2025-07-24 125330" src="https://github.com/user-attachments/assets/b07e2db2-b75b-4539-afc0-2a7105bb6921" />
 
+<img width="738" height="705" alt="Screenshot 2025-07-24 130517" src="https://github.com/user-attachments/assets/ae94488d-a86f-4374-be71-af771b16e048" />
+
+Now I just check if the request was successfull or not.
+
+<img width="700" height="680" alt="Screenshot 2025-07-24 131450" src="https://github.com/user-attachments/assets/eb003590-b53b-41c1-bd5f-6129a69f762a" />
+
+Last thing to do is making sure each device can successfully communicate with each other and everything is done.
+
+<img width="1895" height="707" alt="Screenshot 2025-07-24 132254" src="https://github.com/user-attachments/assets/b16a1e91-e800-4c80-82e4-bac5fa04fb4c" />
+
