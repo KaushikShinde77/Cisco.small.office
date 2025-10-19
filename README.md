@@ -40,5 +40,7 @@ Everything on the switch is done all that remains is configuring the router. In 
 
 <img width="790" height="607" alt="Screenshot 2025-10-19 203738" src="https://github.com/user-attachments/assets/ed2ccf95-7128-42d1-9881-1a3859142d12" />
 
+Then we do the configuration creating 3 sub-interfaces after which we integrate the given range of ip's with their indiviual vlan's.
 
+<img width="716" height="695" alt="Screenshot 2025-07-24 125330" src="https://github.com/user-attachments/assets/b07e2db2-b75b-4539-afc0-2a7105bb6921" />
 
